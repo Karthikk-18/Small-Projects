@@ -21,4 +21,8 @@ small-projects/
 ├── number-guessing-game/
 │   └── index.html
 │   └── script.js
+├── Temperature-Conversion/
+│   └── index.html
+│   └── style.css
+│   └── script.js
 └── (more projects coming soon...)
